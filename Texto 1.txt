@@ -2,10 +2,7 @@ Texto 1
 
 curso Git
 
-.........
-1....
+.............
 
 
-122456789 nuevo text
-
-ABC  y QWE
+123456789
