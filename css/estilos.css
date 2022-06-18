@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Arial';
     color: rgb(19, 11, 0);
     margin: 20;
     padding: 0;
@@ -8,17 +8,31 @@ body {
 }
 
 #container {
-    width: 50%;
-    padding: 1em;
+    width: 70%;
+    padding: 0;
     text-align: left;
-    border: 1px solid rgba(119, 67, 7, 0.867);
+    border: 1px solid rgba(161, 89, 6, 0.867);
     margin:  0 auto;
-    font-size: 20px;
+    font-size: 18px;
 
 }
 
 #cabecera{
-    width: 90%;
+    background-color: rgba(161, 89, 6, 0.867) ;
+    color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
 
-    
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#post{
+    padding: 1em;
 }
